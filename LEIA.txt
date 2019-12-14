@@ -1,0 +1,12 @@
+caso não rode, apague as seguintes linhas nos seguintes arquivos:
+
+register.js (todo_app){
+
+	18-22
+	45-47
+	50-51
+	58-62
+	73-77
+	105-117
+
+}
